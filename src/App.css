@@ -1,0 +1,18 @@
+button {
+  margin: 0 5px;
+}
+
+button.active {
+  font-weight: bold;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0;
+}
+
+input[type='text'] {
+  margin-right: 10px;
+}
